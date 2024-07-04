@@ -16,7 +16,6 @@ An attention-enhanced fully-connected layer follows the feature extraction proce
 This method highlights the regions of interest in retinal images that the model focuses on, providing a heatmap visualization to support interpretative analysis.
 
 ## Installation
-To set up the `PMPred-AE` model for use:
 ```bash
 git clone https://github.com/ZhangHongqi215/PMPred-AE
 
